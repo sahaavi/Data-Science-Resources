@@ -5,6 +5,7 @@
 - [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 - [Amazon’s AWS datasets](https://registry.opendata.aws/)
+- [OECD.Stat](https://stats.oecd.org/)
 
 ## Meta portals (list open data repositories)
 
