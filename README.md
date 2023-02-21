@@ -13,6 +13,8 @@
 - [United States Census Bureau](https://www.census.gov/data.html)
 - [OPEN DATA NETWORK](https://www.opendatanetwork.com/)
 - [Google Cloud Datasets](https://cloud.google.com/datasets)
+- [data.world](https://data.world/)
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ## Meta portals (list open data repositories)
 
@@ -22,6 +24,25 @@
 - [Nasdaq Data Link](https://data.nasdaq.com/)
 
 ## Other pages listing many popular open data repositories
+
 - [Wikipedia’s list of Machine Learning datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [Quora.com question](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [Datasets subreddit](https://www.reddit.com/r/datasets/)
+
+## Data Viz
+
+- [TABLETOP WHALE](https://tabletopwhale.com/index.html)
+- [Tableau Viz Gallery](https://www.tableau.com/viz-gallery)
+
+## News
+
+- [Data Science Central](https://www.datasciencecentral.com)
+- [KDnuggets](https://www.kdnuggets.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
+- [Dataquest](https://www.dataquest.io/blog)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog)
+- [Datafloq](https://datafloq.com)
+- [Data Elixir](https://dataelixir.com/)
+- [O'Reilly Data](https://www.oreilly.com/topics/data)
+- [Dataconomy](https://dataconomy.com)
+- [Data Science subreddit](https://www.reddit.com/r/datascience/)
