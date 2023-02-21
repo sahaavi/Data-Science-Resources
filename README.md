@@ -7,9 +7,16 @@
 - [Amazon’s AWS datasets](https://registry.opendata.aws/)
 - [OECD.Stat](https://stats.oecd.org/)
 - [IMF DATA](https://www.imf.org/en/Data)
+- [DATA.GOV](https://data.gov/)
+- [World Bank Open Data](https://data.worldbank.org/)
+- [WHO data collections](https://www.who.int/data/collections)
+- [United States Census Bureau](https://www.census.gov/data.html)
+- [OPEN DATA NETWORK](https://www.opendatanetwork.com/)
+- [Google Cloud Datasets](https://cloud.google.com/datasets)
 
 ## Meta portals (list open data repositories)
 
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [Data Portals](http://dataportals.org/)
 - [Open Data Monitor](http://opendatamonitor.eu/)
 - [Nasdaq Data Link](https://data.nasdaq.com/)
