@@ -1,20 +1,21 @@
 # Open-Public-Datasets
 
-[![Forks][forks-shield]][forks-url]
-[![Downloads][downloads-shield]][downloads-url]
+[![HitCount][hit-count-shield]][hit-count-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
 [![MIT License][license-shield]][license-url]
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
-[forks-shield]: https://img.shields.io/github/forks/sahaavi/Open-Public-Datasets.svg?style=flat-square
-[forks-url]: https://github.com/sahaavi/Open-Public-Datasets/network/members
-[downloads-shield]: https://img.shields.io/github/downloads/sahaavi/Open-Public-Datasets/total.svg?style=flat-square
-[downloads-url]: https://github.com/sahaavi/Open-Public-Datasets
-[stars-shield]: https://img.shields.io/github/stars/sahaavi/Open-Public-Datasets.svg?style=flat-square
-[stars-url]: https://github.com/sahaavi/Open-Public-Datasets/stargazers
-[license-shield]: https://img.shields.io/github/license/sahaavi/Open-Public-Datasets.svg?style=flat-square
-[license-url]: https://github.com/sahaavi/Open-Public-Datasets/blob/master/LICENSE
+[forks-shield]: https://img.shields.io/github/forks/sahaavi/Open-Public-Datasets.svg?style=flat-square/
+[forks-url]: https://github.com/sahaavi/Open-Public-Datasets/network/members/
+[downloads-shield]: https://img.shields.io/github/downloads/sahaavi/Open-Public-Datasets/total.svg?style=flat-square/
+[downloads-url]: https://github.com/sahaavi/Open-Public-Datasets/
+[stars-shield]: https://img.shields.io/github/stars/sahaavi/Open-Public-Datasets.svg?style=flat-square/
+[stars-url]: https://github.com/sahaavi/Open-Public-Datasets/stargazers/
+[license-shield]: https://img.shields.io/github/license/sahaavi/Open-Public-Datasets.svg?style=flat-square/
+[license-url]: https://github.com/sahaavi/Open-Public-Datasets/blob/master/LICENSE/
+[hit-count-shield]: https://hits.dwyl.com/sahaavi/Open-Public-Datasets.svg/
+[hit-count-url]: https://hits.dwyl.com/sahaavi/Open-Public-Datasets/
 
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feel+free+to+Contribute;Check+contributing.md" alt="Typing SVG" /></a>
