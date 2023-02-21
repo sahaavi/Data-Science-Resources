@@ -15,6 +15,12 @@
 - [Google Cloud Datasets](https://cloud.google.com/datasets)
 - [data.world](https://data.world/)
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Centers for Disease Control and Prevention](https://www.cdc.gov/datastatistics/index.html)
+- [data.gov.uk | Find open data](https://www.data.gov.uk/)
+- [UNICEF DATA](https://data.unicef.org/resources/resource-type/datasets/)
+- [ImageNet](https://image-net.org/)
+- [FiveThirtyEight: Data](https://data.fivethirtyeight.com/)
+- [Segment Datasets: YouTube 8-M](https://research.google.com/youtube8m/)
 
 ## Meta portals (list open data repositories)
 
