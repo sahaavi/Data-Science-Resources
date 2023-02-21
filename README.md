@@ -60,8 +60,9 @@
 
 ## Data Viz
 
-- [TABLETOP WHALE](https://tabletopwhale.com/index.html)
+- [Dash Enterprise App Gallery](https://dash.gallery/Portal/)
 - [Tableau Viz Gallery](https://www.tableau.com/viz-gallery)
+- [TABLETOP WHALE](https://tabletopwhale.com/index.html)
 
 ## News
 
