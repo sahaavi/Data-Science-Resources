@@ -44,6 +44,7 @@
 - [ImageNet](https://image-net.org/)
 - [FiveThirtyEight: Data](https://data.fivethirtyeight.com/)
 - [Segment Datasets: YouTube 8-M](https://research.google.com/youtube8m/)
+- [GBIF | Global Biodiversity Information Facility](https://www.gbif.org/)
 
 ## Meta portals (list open data repositories)
 
