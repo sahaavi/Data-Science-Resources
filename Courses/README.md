@@ -4,57 +4,57 @@ Youtube is the largest academy in the world but sometimes the information overlo
 
 🤖
 ❤️Introduction to Machine Learning
-https://lnkd.in/ecqatZBA
+https://lnkd.in/ecqatZBA  
 ✅Stanford: Machine Learning
-https://lnkd.in/exNpHVgK
+https://lnkd.in/exNpHVgK  
 ❤️Making Friends with Machine Learning
-https://lnkd.in/ejM83n2B
+https://lnkd.in/ejM83n2B  
 ✅Applied Machine Learning
-https://lnkd.in/eBPxJriR
+https://lnkd.in/eBPxJriR  
 ✅Statistical Machine Learning
-https://lnkd.in/eszaHhnn
+https://lnkd.in/eszaHhnn  
 ✅Neural Networks: Zero to Hero
-https://lnkd.in/eHyXfdMY
+https://lnkd.in/eHyXfdMY  
 
 🧠
 ❤️Introduction to Deep Learning (MIT)
-https://lnkd.in/eh7wTzbq
+https://lnkd.in/eh7wTzbq  
 ✅CMU Introduction to Deep Learning
-https://lnkd.in/eCF92CDW
+https://lnkd.in/eCF92CDW  
 🔥MIT: Deep Learning for Art, Aesthetics, and Creativity
-https://lnkd.in/eURJKHUS
+https://lnkd.in/eURJKHUS  
 ✅Stanford Deep Learning
-https://lnkd.in/e6fWv3R8
+https://lnkd.in/e6fWv3R8  
 ❤️Introduction to Deep Learning (MIT)
-https://lnkd.in/eh7wTzbq
+https://lnkd.in/eh7wTzbq  
 ✅CMU Introduction to Deep Learning
-https://lnkd.in/eCF92CDW
+https://lnkd.in/eCF92CDW  
 🔥Deep Unsupervised Learning
-https://lnkd.in/eB2sacxY
+https://lnkd.in/eB2sacxY  
 ✅NYU Deep Learning SP21
-https://lnkd.in/eMNsFmBe
+https://lnkd.in/eMNsFmBe  
 🔥Foundation Models
-https://lnkd.in/emPfE-MS
+https://lnkd.in/emPfE-MS  
 ✅Full Stack Deep Learning
-https://lnkd.in/edbFQZBX
+https://lnkd.in/edbFQZBX  
 ✅Practical Deep Learning for Coders
-https://lnkd.in/eMjrFESY
+https://lnkd.in/eMjrFESY  
 🔥Machine Learning Engineering for Production (MLOps)
-https://lnkd.in/enmaT8Yy
+https://lnkd.in/enmaT8Yy  
 
 👅
 🔥Stanford - Transformers
-https://lnkd.in/eMHXPehx
+https://lnkd.in/eMHXPehx  
 ✅NLP Course (Hugging Face)
-https://lnkd.in/ehhG4S_2
+https://lnkd.in/ehhG4S_2  
 ✅Natural Language Understanding
-https://lnkd.in/emVV8CfA
+https://lnkd.in/emVV8CfA  
 ✅CMU Advanced NLP 2022
-https://lnkd.in/eXenh9pm
+https://lnkd.in/eXenh9pm  
 ✅Multilingual NLP
-https://lnkd.in/eu46qy8V
+https://lnkd.in/eu46qy8V  
 ✅Advanced NLP
-https://lnkd.in/ggpQAD6
+https://lnkd.in/ggpQAD6  
 
 👀
 ✅Deep Learning for Computer Vision
