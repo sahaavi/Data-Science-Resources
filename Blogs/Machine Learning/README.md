@@ -1,0 +1,13 @@
+- Meta: https://research.facebook.com/blog/
+- Netflix: https://research.netflix.com/research-area/machine-learning
+- Google: https://research.google/
+- Pinterest: https://www.pinterestlabs.com/publications/
+- Apple: https://machinelearning.apple.com/
+- OpenAI: https://openai.com/blog
+- NVidia: https://blogs.nvidia.com/blog/category/deep-learning/
+- Amazon: https://www.amazon.science/
+- AirBnB: https://medium.com/airbnb-engineering/ai/home
+- Microsoft: https://www.microsoft.com/en-us/research/blog/
+- LinkedIn: https://engineering.linkedin.com/blog/topic/research
+- Twitter: https://blog.twitter.com/engineering/en_us
+- IBM: https://research.ibm.com/publications
