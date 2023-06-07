@@ -44,3 +44,6 @@
 - https://lnkd.in/dmp3zkMr
 - https://lnkd.in/dMsw4YB6
 - https://lnkd.in/djxydmHe
+
+6) Practise
+- https://datalemur.com/questions
