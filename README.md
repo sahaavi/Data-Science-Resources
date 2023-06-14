@@ -22,7 +22,8 @@
 </h3>
 
 [Contribution Guidelines](https://github.com/sahaavi/Open-Public-Datasets/blob/main/contributing.md)
-
+## Torrent
+- [Academic Torrents](https://academictorrents.com/)
 ## Open Data repositories
 
 - [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
